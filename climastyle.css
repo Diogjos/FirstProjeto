@@ -1,0 +1,17 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+main{
+    display: flex;
+    display: grid;
+    justify-content: center;
+    margin-top: 5%;
+}
+p1{
+    display: flex;
+    display: grid;
+    justify-content: center;
+    margin-top: 2%; 
+    color: gray;
+}
